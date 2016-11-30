@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+
+    <string name="app_name">Wisata Jogja</string>
+
+    <!-- Activity Titles -->
+    <string formatted="false" name="tempatWisataActivity">Tempat Wisata</string>
+    <string formatted="false" name="wisataJogjaMainActivity">Wisata Jogja</string>
+	
+	<!-- Navigation Titles -->
+    <string name="mainmenu_entry0">Home</string>
+</resources>
+
